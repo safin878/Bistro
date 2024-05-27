@@ -1,0 +1,11 @@
+.navbar-bg-opacity {
+  background-color: rgba(
+    17,
+    24,
+    39,
+    0.3
+  ); /* Tailwind's bg-gray-800 with 30% opacity */
+}
+.swal2-actions .swal2-confirm {
+  margin-left: 10px; /* Adjust the value as needed */
+}
